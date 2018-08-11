@@ -19,7 +19,7 @@ namespace CodeWars
                 output.Add("Open");                
             }
 
-            return output.ToArray();
+            return output;
         }
     }
 }
