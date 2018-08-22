@@ -1,0 +1,16 @@
+{
+  "name": "condewars",
+  "version": "1.0.0",
+  "description": "Codeawars javascripts",
+  "main": "index.js",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "lodash": "^4.17.10",
+    "mocha": "^5.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha test/*.spec.*",
+    "test:watch": "mocha --watch test/*.spec.*"
+  }
+}
