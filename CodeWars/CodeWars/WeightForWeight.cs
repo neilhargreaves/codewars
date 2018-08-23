@@ -18,7 +18,6 @@ namespace CodeWars
                     key += 0.1m;
                 }
 
-
                 x.Add(key, y);
                 return x;
             });
